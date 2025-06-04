@@ -1,0 +1,14 @@
+body {
+  background-color: #f0f8ff;
+  font-family: "Segoe UI", "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: #333;
+  font-size: 3em;
+}
